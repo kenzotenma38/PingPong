@@ -1,0 +1,16 @@
+C:\Users\A\Desktop\VS\PingPong\bin\Debug\net8.0-windows\PingPong.exe
+C:\Users\A\Desktop\VS\PingPong\bin\Debug\net8.0-windows\PingPong.deps.json
+C:\Users\A\Desktop\VS\PingPong\bin\Debug\net8.0-windows\PingPong.runtimeconfig.json
+C:\Users\A\Desktop\VS\PingPong\bin\Debug\net8.0-windows\PingPong.dll
+C:\Users\A\Desktop\VS\PingPong\bin\Debug\net8.0-windows\PingPong.pdb
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\Movement.Form1.resources
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.csproj.GenerateResource.cache
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.AssemblyInfo.cs
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.dll
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\refint\PingPong.dll
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.pdb
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.genruntimeconfig.cache
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\ref\PingPong.dll

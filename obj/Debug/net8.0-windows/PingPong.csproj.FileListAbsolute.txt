@@ -14,3 +14,4 @@ C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\refint\PingPong.dll
 C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.pdb
 C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.genruntimeconfig.cache
 C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\ref\PingPong.dll
+C:\Users\A\Desktop\VS\PingPong\obj\Debug\net8.0-windows\PingPong.sourcelink.json

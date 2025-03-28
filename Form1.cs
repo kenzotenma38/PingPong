@@ -7,7 +7,7 @@ namespace Movement
         private List<Button> _targets = new List<Button>();
         private int _score = 0;
         private Label _scoreLabel;
-
+        private Random _random = new Random();
 
         public Form1()
         {
@@ -37,7 +37,7 @@ namespace Movement
                 {
                     var target = new Button
                     {
-                        BackColor = Color.Green,
+                        BackColor = Color.FromArgb(_random.Next(256), _random.Next(256), _random.Next(256)),
                         Left = 50 + 100 * j,
                         Width = 95,
                         Top = 50 + 45 * i,
